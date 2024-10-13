@@ -95,7 +95,7 @@ I created a number of visuals to show the monthly revenue summary, the month the
    
 -	To encourage their top 5 customers, they can reward them with end of the year Gift, slashing of delivery prices for them toward the end of the year and many other attractive offers that will make them keep coming back again to use their services. This can increase customer retention rate.
 
-##Thanks for following through
+## Thanks for following through
 
 
 
