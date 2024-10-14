@@ -1,4 +1,4 @@
-# Business-Performance-report-from-January---August-2024-for-DHL-Express-Nigeria
+#  A Business-Performance-report-from-January-August 2024 for a frictional data set of a branch in DHL-Express Nigeria
 
 ## Project Overview
 This Data Analysis project provides insight into the Business performance  of a frictional data set for a branch in DHL Express Nigeria from January to August in the year 2024. By analyzing the monthly sales return, the number of waybills generated, the number of times a customer used their services and the number of times a shipment has been delivered to a city.
