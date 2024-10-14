@@ -1,12 +1,12 @@
 #  A Business Performance report from January-August 2024 for a frictional data set of a branch in DHL-Express Nigeria
 
 ## Project Overview
-This Data Analysis project provides insight into the Business performance  of a frictional data set for a branch in DHL Express Nigeria from January to August in the year 2024. By analyzing the monthly sales return, the number of waybills generated, the number of times a customer used their services and the number of times a shipment has been delivered to a city.
+This Data Analysis project provides insight into the Business performance for a frictional data set of a branch in DHL Express Nigeria from January to August in the year 2024. By analyzing the monthly sales return, the number of waybills generated, the number of times a customer used their services and the number of times a shipment has been delivered to a city.
 
 We seek to know the Total revenue gotten from January to August 2024, the month they had their peak sale, the month with the highest generated waybills, the number of times a customers used their services and the city with the highest shipment delivery.
 
 ## Data Source
-The primary data set used for this analysis is a frictional data set of a “Business performance report in a branch in DHL Express Nigeria from January to August 2024”
+The primary data set used for this analysis is a frictional data set of a “Business performance report for a branch in DHL Express Nigeria from January to August 2024”
 
 ## Skills Demostrated for this Project
 -	 Data cleaning
