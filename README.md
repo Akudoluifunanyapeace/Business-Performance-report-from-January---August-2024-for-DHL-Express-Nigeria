@@ -87,10 +87,10 @@ I created a number of visuals to show the monthly revenue summary, the month the
 -	80% of their top deliveries are within cities in Nigeria
 
  ### Base on the analysis I recommend the following actions
--	Since most of their deliveries are within Nigeria, especially Lagos they should recruit more Third-party agent / Courier guys to those cities to make delivery of waybill to the Consignee/ receiver faster.
+-	Since most of their deliveries are within Nigeria, especially Lagos they should recruit more Third-party agent / Courier guys to those cities to make delivery of waybill to the Consignee/ receiver more faster.
   
--	They should invest more in marketing and running Ads in the Month of August and July since it is their Peak sale season to maximize revenue and Profit.
-
+-	They should invest more in marketing and running Ads in the Month of January in order to increase sales.
+-	
 -	The months where they made little or no sale like January, they should cut down on unnecessary Expenses that could lead to losses.
    
 -	To encourage their top 5 customers, they can reward them with end of the year Gift, slashing of delivery prices for them toward the end of the year and many other attractive offers that will make them keep coming back again to use their services. This can increase customer retention rate.
